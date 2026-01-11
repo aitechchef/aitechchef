@@ -1,9 +1,9 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Chris! 👋
 
 ### 👨‍💻 Aspiring AI & Technology Associate
 I am a dedicated career switcher transitioning from 15 years in high-pressure Culinary and Sales management into the world of Technology. Currently finishing my A.S. in Artificial Intelligence at Hillsborough College.
 
-I am a "Jack of All Trades" looking to get my foot in the door. Whether it's data analysis, IT support, or scripting automations, I bring "fire-tested" resilience and a hunger to learn.
+Whether it's data analysis, IT support, or scripting automations, I bring fire-tested resilience and a hunger to learn.
 
 ---
 
@@ -24,6 +24,6 @@ I am a "Jack of All Trades" looking to get my foot in the door. Whether it's dat
 ---
 
 ### ⚡ Fun Fact
-I spent years as a Pitmaster and Sous Chef. I approach coding with the same precision, discipline, and "mise en place" (preparation) that I used to run a busy kitchen.
+I spent years as a Pitmaster and Sous Chef. I approach coding with the same precision, discipline, and " mise en place"  that I used to run a busy kitchen.
 
-[📎 Connect with me on LinkedIn](Your_LinkedIn_URL_Here)
+[📎 Connect with me on LinkedIn]www.linkedin.com/in/chris-d-michel-5007b6379
