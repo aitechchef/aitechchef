@@ -12,6 +12,22 @@ Whether it's data analysis, IT support, or scripting automations, I bring fire-t
 * **Tools:** VS Code, Git/GitHub, Tableau, Linux Command Line
 * **Certifications:** Studying for CompTIA Network+ (Expected early 2026)
 
+---
+
+### 📂 Portfolio Highlights
+
+#### 🗣️ [Natural Language Processing (NLP) Experiments](https://github.com/aitechchef/nlp-projects)
+* **Focus:** Analyzing text data for sentiment and sequence patterns.
+* **Tech:** NLTK, TensorFlow/Keras, Python.
+* **Key Projects:** Sentiment Analysis on social data, Sequence Modeling.
+
+#### 🐍 [Python Automation Suite](https://github.com/aitechchef/python-automation-projects)
+* **Focus:** Automating business logic and record management systems.
+* **Tech:** Python (OOP), CLI Tools, File I/O.
+* **Key Projects:** University Records System, Corporate Messaging Simulator.
+
+---
+
 ### 🔭 What I'm Working On
 * **Home Lab:** Building a virtualized Linux network to practice security and admin basics.
 * **Data Projects:** Analyzing open-source datasets (like NYC Airbnb data) to find actionable insights.
