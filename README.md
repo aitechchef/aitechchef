@@ -1,20 +1,54 @@
-# Hi there, I'm Chris! 👋
+# Hi, I'm Chris 👋
 
-### 👨‍💻 Aspiring AI & Technology Associate
-I am a dedicated career switcher transitioning from 15 years in high-pressure Culinary and Sales management into the world of Technology. Currently finishing my A.S. in Artificial Intelligence at Hillsborough College.
+## IT Support & Cybersecurity | Network+ | Security+ & AZ-900 (In Progress)
 
-Whether it's data analysis, IT support, or scripting automations, I bring fire-tested resilience and a hunger to learn.
+I'm a career switcher transitioning into IT and cybersecurity after 15+ years solving problems in high-pressure environments across operations, leadership, and customer-facing roles.
+
+I've been hands-on with technology for years—from troubleshooting systems and supporting family/small business tech needs to building lab environments and documenting real-world IT workflows. Recently, I've focused on practical experience through Azure-based Windows Server labs, networking, Linux, PowerShell, and troubleshooting common Tier 1 support scenarios.
+
+Currently pursuing an A.S. in Artificial Intelligence at Hillsborough College while building practical IT and security skills through hands-on labs, scripting, and independent projects.
 
 ---
 
-### 🛠️ Technical Toolbox
-* **Languages:** Python (Pandas, NumPy), SQL, Bash/Shell
-* **Tools:** VS Code, Git/GitHub, Tableau, Linux Command Line
-* **Certifications:** Studying for CompTIA Network+ (Expected early 2026)
+## 🛠 Technical Skills
+
+### Infrastructure & Operating Systems
+- Windows Server 2022
+- Windows 11
+- Linux (Kali/Ubuntu)
+- Microsoft Azure (Virtual Machines)
+- MacOS
+
+### Networking & Support
+- TCP/IP
+- DNS
+- DHCP
+- Wireshark
+- VPNs
+- Remote Support Tools (AnyDesk)
+- Troubleshooting & Diagnostics
+
+### Systems Administration
+- User & Permission Management
+- Shared Folder Access
+- Event Viewer
+- CLI Troubleshooting
+- File & Folder Permissions
+
+### Automation & Scripting
+- PowerShell
+- Python
+- Bash/Shell
+- SQL
 
 ---
 
 ### 📂 Portfolio Highlights
+
+#### 🖥️ [Azure IT Support Lab](https://github.com/aitechchef/Azure-IT-Support-Labs)
+* **Focus:** Building hands-on IT support and systems administration skills through a cloud-based Windows Server lab environment.
+* **Tech:** Microsoft Azure (Virtual Machines), Windows Server 2022, Windows 11, PowerShell, Active Directory Concepts, DNS, DHCP, Event Viewer, AnyDesk.
+* **Key Projects:** Tier 1 Help Desk simulations, user account & permissions management, network troubleshooting, print spooler diagnostics, remote support workflows, PowerShell automation, Windows Server administration.
 
 #### 🗣️ [Natural Language Processing (NLP) Experiments](https://github.com/aitechchef/nlp-projects)
 * **Focus:** Analyzing text data for sentiment and sequence patterns.
@@ -29,17 +63,21 @@ Whether it's data analysis, IT support, or scripting automations, I bring fire-t
 ---
 
 ### 🔭 What I'm Working On
-* **Home Lab:** Building a virtualized Linux network to practice security and admin basics.
-* **Data Projects:** Analyzing open-source datasets (like NYC Airbnb data) to find actionable insights.
-* **School:** Acing my final semester capstone project.
+* **Home Lab:** Expanding my Azure-based home lab while studying for Security+ and AZ-900
+* **Projects:** Building more hands-on IT support and security projects
+* **Career:** Growing toward an IT Support, Help Desk, or Junior Cybersecurity role
 
 ### 🌱 I’m looking for...
-* Internships, Mentorship, or Entry-Level roles in Tech (Data, IT, or AI).
-* Opportunities to apply my operational background to technical problems.
+Entry-level opportunities in:
+* IT Support
+* Help Desk
+* Desktop Support
+* Junior Cybersecurity
+* Technical Support
 
 ---
 
 ### ⚡ Fun Fact
-I spent years as a Pitmaster and Sous Chef. I approach coding with the same precision, discipline, and " mise en place"  that I used to run a busy kitchen.
+Before tech, I spent years leading teams in kitchens. That experience taught me how to stay calm under pressure, troubleshoot problems quickly, communicate clearly, and keep operations moving when things get hectic.
 
-[📎 Connect with me on LinkedIn]www.linkedin.com/in/chris-d-michel-5007b6379
+📎 Connect with me on LinkedIn [www.linkedin.com/in/dmichel2324](https://www.linkedin.com/in/dmichel2324/)
