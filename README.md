@@ -4,7 +4,7 @@
 
 I'm a career switcher transitioning into IT and cybersecurity after 15+ years solving problems in high-pressure environments across operations, leadership, and customer-facing roles.
 
-I've been hands-on with technology for years—from troubleshooting systems and supporting family/small business tech needs to building lab environments and documenting real-world IT workflows. Recently, I've focused on practical experience through Azure-based Windows Server labs, networking, Linux, PowerShell, and troubleshooting common Tier 1 support scenarios.
+I've been hands-on with technology for years, from troubleshooting systems and supporting family/small business tech needs to building lab environments and documenting real-world IT workflows. Recently, I've focused on practical experience through Azure-based Windows Server labs, networking, Linux, PowerShell, and troubleshooting common Tier 1 support scenarios.
 
 Currently pursuing an A.S. in Artificial Intelligence at Hillsborough College while building practical IT and security skills through hands-on labs, scripting, and independent projects.
 
