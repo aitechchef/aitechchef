@@ -45,6 +45,11 @@ Currently pursuing an A.S. in Artificial Intelligence at Hillsborough College wh
 
 ### 📂 Portfolio Highlights
 
+#### ☁️ [Azure Cloud Infrastructure Lab](https://github.com/aitechchef/AZ-900-Cloud-Labs)
+* **Focus:** Building hands-on experience with Azure cloud infrastructure, networking, identity, governance, and troubleshooting.
+* **Tech:** Microsoft Azure, Virtual Machines, Entra ID, RBAC, Azure CLI, Virtual Networks, Blob Storage, Cloud Shell, Resource Groups.
+* **Key Projects:** VM deployment & availability zones, VNet peering, Entra ID tenant setup, RBAC permissions, storage redundancy, Azure Policy & Resource Locks, cost management simulations, Azure CLI automation.
+
 #### 🖥️ [Azure IT Support Lab](https://github.com/aitechchef/Azure-IT-Support-Labs)
 * **Focus:** Building hands-on IT support and systems administration skills through a cloud-based Windows Server lab environment.
 * **Tech:** Microsoft Azure (Virtual Machines), Windows Server 2022, Windows 11, PowerShell, Active Directory Concepts, DNS, DHCP, Event Viewer, AnyDesk.
